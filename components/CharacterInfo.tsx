@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { CHARACTER_INFO } from '../constants';
-import { Lock, Eye, EyeOff, AlertTriangle } from 'lucide-react';
+import { Lock, EyeOff, AlertTriangle } from 'lucide-react';
 
 const CharacterInfo: React.FC = () => {
   const [isMaskRevealed, setIsMaskRevealed] = useState(false);

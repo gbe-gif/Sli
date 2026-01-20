@@ -1,5 +1,5 @@
 import { CharacterProfile, PrologueSegment, WorldTerm, CommandExample } from './types';
-import { Star, Zap, Shield, Gift, MessageSquare, Terminal, ShoppingBag, Globe, Smartphone, Newspaper, Database, Users, Crown, Building2 } from 'lucide-react';
+import { Zap, Gift, MessageSquare, ShoppingBag, Globe, Users, Crown, Building2 } from 'lucide-react';
 
 export const CHARACTER_INFO: CharacterProfile = {
   name: "???",
